@@ -11,4 +11,4 @@ __pycache__/
 mineral-tariff-extraction/
 mineral-trade-extraction/
 
-.example
+output/
